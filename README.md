@@ -1,3 +1,17 @@
+**PORTFOLIO-WEBSITE**
+**Overview**
+Welcome to my PORTFOLIO-WEBSITE! This space reflects my journey as a PORTFOLIO-WEBSITE!, showcasing skills, contributions, and projects that define my expertise.
+
+**How to Navigate**
+Visit the Website: Explore my portfolio by clicking [here](https://ajoyag.github.io/PORTFOLIO-WEBSITE/)
+Browse Code: Understand my coding style, structure, and best practices.
+Explore Projects: Investigate outcomes and my depth of involvement.
+Contribution Graph: Visualize my commitment and contributions over time.
+
+**About Me**
+Learn about my background, journey, and aspirations. Connect with me on [GitHub](https://github.com/ajoyag), where you can find links to my social handles listed on my profile!
+
+
 Credits to...
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
