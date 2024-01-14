@@ -4,8 +4,11 @@ Welcome to my PORTFOLIO-WEBSITE! This space reflects my journey as a PORTFOLIO-W
 
 **How to Navigate**
 Visit the Website: Explore my portfolio by clicking [here](https://ajoyag.github.io/PORTFOLIO-WEBSITE/)
+
 Browse Code: Understand my coding style, structure, and best practices.
+
 Explore Projects: Investigate outcomes and my depth of involvement.
+
 Contribution Graph: Visualize my commitment and contributions over time.
 
 **About Me**
