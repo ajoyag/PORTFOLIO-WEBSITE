@@ -12,7 +12,7 @@ Explore Projects: Investigate outcomes and my depth of involvement.
 
 Contribution Graph: Visualize my commitment and contributions over time.
 
-**About Me**
+### About Me
 Learn about my background, journey, and aspirations. Connect with me on [GitHub](https://github.com/ajoyag), where you can find links to my social handles listed on my profile!
 
 
